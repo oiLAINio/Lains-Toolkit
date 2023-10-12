@@ -1,7 +1,7 @@
 
 ## Guide creation  
 
-[Scribe](https://scribehow.com/)
+[Scribe](https://scribehow.com/) - use Scribe to automatically generate how to guides
 
 
 ## Security  
@@ -11,7 +11,7 @@
 [shodan](https://www.shodan.io/) - Shodan is a info gathering tool used to query endpoint 
 
 ### Scanning
-[VirusTotal](https://www.virustotal.com/gui/home/upload)
+[VirusTotal](https://www.virustotal.com/gui/home/upload) - VT will scan files, url's, hashes and more with multiple vendors. with an account, it is also useful for investigating threats.
 
 
 ## Admin
