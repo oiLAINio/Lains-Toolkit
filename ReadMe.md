@@ -16,6 +16,7 @@ a neatly curated repository where I unfold the array of tools and services that 
 - [Table of contents](#table-of-contents)
 - [Devops](#devops)
   - [Frontend development](#frontend-development)
+  - [Learning](#learning)
   - [Tools](#tools)
 - [Productivity](#productivity)
 - [Security](#security)
@@ -23,6 +24,7 @@ a neatly curated repository where I unfold the array of tools and services that 
   - [Scanning](#scanning)
   - [Research](#research)
   - [Breach](#breach)
+  - [Learning](#learning-1)
   - [News and emerging threats](#news-and-emerging-threats)
   - [Honorable Mentions](#honorable-mentions)
 
@@ -41,6 +43,12 @@ a neatly curated repository where I unfold the array of tools and services that 
 | [Simple Icons](https://simpleicons.org/?q=kub)     |                                                      Free SVG icons for popular brands                                                       |
 | [Super Designer](https://superdesigner.co/)        |                      A collection of free design tools to create unique backgrounds, patterns, shapes, images, and more                      |
 | [unDraw](https://undraw.co/illustrations/)         | Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity. |
+
+### Learning
+| Name                                               |                                                                 Description                                                                  |
+| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Leet Code](https://leetcode.com/)   | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. You will be given challenges and will be able to code your solution and see how your code compares to other submitted answers.|
+| [w3schools](https://www.w3schools.com/)  | Quick how to's, full blown tutorials, examples and on many different languages. W3 schools is one of the first things that will show up when you google a question|
 
 ### Tools
 | Name                                       |                                                           Description                                                            |
@@ -83,6 +91,12 @@ a neatly curated repository where I unfold the array of tools and services that 
 | :----------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [DeHashed](https://www.dehashed.com/)            | DeHashed provides free deep-web scans and protection against credential leaks. This differs from tools like "haveibeenpwned" as it will not only tell you if the data was found in a breach. But will also show you the leaked data (With an account) |
 | [Have I Been Pwned](https://haveibeenpwned.com/) |                                                        Have I Been Pwned allows you to search across multiple data breaches to see if your email address or phone number has been compromised.                                                        |
+
+### Learning
+| Name                                     |                                                                                                                  Description                                                                                                                  |
+| :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Hack the box](https://www.hackthebox.com/) |Hack The Box gives individuals, businesses and universities the tools they need to continuously improve their cybersecurity capabilities. A VM is spawned with a vulnerability and you are to hack your way in to get the flag |
+| [Infosec Institute](https://www.infosecinstitute.com/skills/) |Self-paced cybersecurity training |
 
 ### News and emerging threats
 | Name                                                             |                                                                                                            Description                                                                                                            |
