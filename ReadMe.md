@@ -5,9 +5,9 @@
         <img src="navi.webp" alt="Logo" width="250" height="250">
     </a>
 </div>
-<h1 align="center">Lains Tool Bag</h1> 
+<h1 align="center">Lains Toolkit</h1> 
 <p align="center">
-a neatly curated repository where I unfold the array of tools and services that I employ in my digital journey. Whether it's coding, designing, managing projects, or simply staying productive - I’ve explored various utilities to enhance my workflows and make life a tad easier!
+A neatly curated repository where I unfold the array of tools and services that I employ in my digital journey. Whether it's coding, designing, managing projects, or simply staying productive - I’ve explored various utilities to enhance my workflows and make life a tad easier!
 </p>
 
 
