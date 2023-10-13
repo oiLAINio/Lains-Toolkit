@@ -26,6 +26,7 @@ A neatly curated repository where I unfold the array of tools and services that 
   - [Breach](#breach)
   - [Learning](#learning-1)
   - [News and emerging threats](#news-and-emerging-threats)
+  - [Honeypot tools](#honeypot-tools)
   - [Honorable Mentions](#honorable-mentions)
 
 
@@ -106,6 +107,13 @@ A neatly curated repository where I unfold the array of tools and services that 
 | [OWASP](https://owasp.org/)                                      |             The Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.             |
 | [The Hacker News](https://thehackernews.com/)                    |                                                                      A platform that focuses on cyber security news. It also sells sketchy software bundles.                                                                      |
 | [Threat Post](https://threatpost.com/)                           |                                                                                          A platform that focuses on cyber security news.                                                                                          |
+
+### Honeypot tools
+| Name                                               |                                                                                                                              Description                                                                                                                               |
+| :------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [CanaryTokens](https://canarytokens.org/generate#) |                                                        Canarytokens is a free tool that helps you discover you've been breached by having attackers announce themselves. The tokens allow you to implant traps.                                                        |
+| [grabify](https://grabify.link/)                   | Grabify IP Logger URL & Shortener provides you with some of the most advanced and detailed statistical data and metadata for all clicks on your links. Your IP Logger link can access information about user’s IP address, location tracker (country, city) and so on. |
+
 
 ### Honorable Mentions
 | Name                                           |                                                                Description                                                                |
