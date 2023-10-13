@@ -26,21 +26,14 @@ a neatly curated repository where I unfold the array of tools and services that 
 
 
 ## Productivity  
-<div align="center">
-
 ### AI 
-</div>
-
 | Name                                |                                                           Description                                                           |
 | :---------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------: |
 | [Scribe](https://scribehow.com/)    |                                       Scribe automatically generates visual how-to guides                                       |
 | [ChatGPT](https://chat.openai.com/) | Chat-GPT allows users to refine and steer a conversation towards a desired length, format, style, level of detail, and language |
 
-<div align="center">
 
 ### Projects
-</div>
-
 | Name                             |                                                                            Description                                                                            |
 | :------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | [Notion](https://www.notion.so/) | Notion is an all-in-one productivity and collaboration software that combines note-taking, task management, and database capabilities in a customizable platform. |
