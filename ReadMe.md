@@ -45,10 +45,10 @@ A neatly curated repository where I unfold the array of tools and services that 
 | [unDraw](https://undraw.co/illustrations/)         | Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity. |
 
 ### Learning
-| Name                                               |                                                                 Description                                                                  |
-| :------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Leet Code](https://leetcode.com/)   | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. You will be given challenges and will be able to code your solution and see how your code compares to other submitted answers.|
-| [w3schools](https://www.w3schools.com/)  | Quick how to's, full blown tutorials, examples and on many different languages. W3 schools is one of the first things that will show up when you google a question|
+| Name                                    |                                                                                                                        Description                                                                                                                        |
+| :-------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Leet Code](https://leetcode.com/)      | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. You will be given challenges and will be able to code your solution and see how your code compares to other submitted answers. |
+| [w3schools](https://www.w3schools.com/) |                                            Quick how to's, full blown tutorials, examples and on many different languages. W3 schools is one of the first things that will show up when you google a question                                             |
 
 ### Tools
 | Name                                       |                                                           Description                                                            |
@@ -57,11 +57,12 @@ A neatly curated repository where I unfold the array of tools and services that 
 
 
 ## Productivity  
-| Name                                |                                                                                                Description                                                                                                 |
-| :---------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [ChatGPT](https://chat.openai.com/) | Chat-GPT allows users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Use it to write the boring parts of your code or to get an email started. |
-| [Scribe](https://scribehow.com/)    |                                                                            Scribe automatically generates visual how-to guides                                                                             |
-| [Notion](https://www.notion.so/)    |                     Notion is an all-in-one productivity and collaboration software that combines note-taking, task management, and database capabilities in a customizable platform.                      |
+| Name                                 |                                                                                                Description                                                                                                 |
+| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [ChatGPT](https://chat.openai.com/)  | Chat-GPT allows users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Use it to write the boring parts of your code or to get an email started. |
+| [Scribe](https://scribehow.com/)     |                                                                            Scribe automatically generates visual how-to guides                                                                             |
+| [Notion](https://www.notion.so/)     |                     Notion is an all-in-one productivity and collaboration software that combines note-taking, task management, and database capabilities in a customizable platform.                      |
+| [Draw.io](https://app.diagrams.net/) |                                                   diagrams.net (draw.io) is a cross-platform graph drawing software that is great for creating diagrams                                                    |
 
 
 ## Security  
@@ -93,10 +94,10 @@ A neatly curated repository where I unfold the array of tools and services that 
 | [Have I Been Pwned](https://haveibeenpwned.com/) |                                                        Have I Been Pwned allows you to search across multiple data breaches to see if your email address or phone number has been compromised.                                                        |
 
 ### Learning
-| Name                                     |                                                                                                                  Description                                                                                                                  |
-| :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Hack the box](https://www.hackthebox.com/) |Hack The Box gives individuals, businesses and universities the tools they need to continuously improve their cybersecurity capabilities. A VM is spawned with a vulnerability and you are to hack your way in to get the flag |
-| [Infosec Institute](https://www.infosecinstitute.com/skills/) |Self-paced cybersecurity training |
+| Name                                                          |                                                                                                          Description                                                                                                           |
+| :------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| [Hack the box](https://www.hackthebox.com/)                   | Hack The Box gives individuals, businesses and universities the tools they need to continuously improve their cybersecurity capabilities. A VM is spawned with a vulnerability and you are to hack your way in to get the flag |
+| [Infosec Institute](https://www.infosecinstitute.com/skills/) |                                                                                               Self-paced cybersecurity training                                                                                                |
 
 ### News and emerging threats
 | Name                                                             |                                                                                                            Description                                                                                                            |
