@@ -10,8 +10,6 @@
 A neatly curated repository where I unfold the array of tools and services that I employ in my digital journey. Whether it's coding, designing, managing projects, or simply staying productive - I’ve explored various utilities to enhance my workflows and make life a tad easier!
 </p>
 
-
-
 ## Table of contents
 - [Table of contents](#table-of-contents)
 - [Devops](#devops)
@@ -125,3 +123,13 @@ A neatly curated repository where I unfold the array of tools and services that 
 
 
 
+
+
+
+[free]: https://img.shields.io/badge/Free-%23a3efc0
+[freemium]: https://img.shields.io/badge/Freemium-%23e4dfec
+[paid]: https://img.shields.io/badge/Paid-%23ffcade
+
+![free]
+![freemium]
+![paid]
