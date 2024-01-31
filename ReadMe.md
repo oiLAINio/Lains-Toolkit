@@ -53,7 +53,7 @@ A neatly curated repository where I unfold the array of tools and services that 
 | Name                                       |                                                           Description                                                            |
 | :----------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------: |
 | [JSON CRACK](https://jsoncrack.com/editor) | Visualize, analyze, and manipulate data with ease. jsoncrack will parse formats like JSON into a tree making it easy to navigate |
-| [Engine Mailer html email builder](https://www.enginemailer.com/html-email-builder) | Drag and drop email designer |
+| [Engine Mailer](https://www.enginemailer.com/html-email-builder) | Drag and drop email designer |
 
 
 ## Productivity  
