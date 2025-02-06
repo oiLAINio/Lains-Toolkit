@@ -44,6 +44,7 @@ A neatly curated repository where I unfold the array of tools and services that 
 | [unDraw](https://undraw.co/illustrations/)         | Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity. |
 | [rgb to](https://rgb.to/)                          | Just a color helper                                                                                                                          |
 | [material](https://m2.material.io/design/guidelines-overview)| Useful design guidelines |
+| [Uiverse](https://uiverse.io/)| Open-Source UI Library |
 
 ### Backend Tools
 | Name                                               |                                                                 Description                                                                  |
