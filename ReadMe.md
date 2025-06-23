@@ -10,125 +10,171 @@
 A neatly curated repository where I unfold the array of tools and services that I employ in my digital journey. Whether it's coding, designing, managing projects, or simply staying productive - I’ve explored various utilities to enhance my workflows and make life a tad easier!
 </p>
 
-## Table of contents
-- [Table of contents](#table-of-contents)
-- [Devops](#devops)
-  - [Frontend development](#frontend-development)
+## Table of Contents
+### Development
+- [Frontend](#frontend)
+  - [Design Inspiration](#design-inspiration)
+  - [Design Tools](#design-tools)
+  - [Plug-and-Play Components](#plug-and-play-components)
+  - [Frontend Learning](#frontend-learning)
+- [Backend](#backend)
   - [Backend Tools](#backend-tools)
-  - [Learning](#learning)
-  - [Tools](#tools)
+  - [Learning Resources](#backend-learning)
+
+- [Fullstack & General Tools](#fullstack--general-tools)
+### DevOps & Infrastructure
+- [Tooling](#tooling)
 - [Productivity](#productivity)
-- [Security](#security)
-  - [Investigation](#investigation)
-  - [Scanning](#scanning)
-  - [Research](#research)
-  - [Breach](#breach)
-  - [Learning](#learning-1)
-  - [News and emerging threats](#news-and-emerging-threats)
-  - [Honeypot tools](#honeypot-tools)
-  - [Honorable Mentions](#honorable-mentions)
+### Security
+- [Investigation & Recon](#investigation--recon)
+- [Scanning](#scanning)
+- [Vulnerability Research](#vulnerability-research)
+- [Breach Monitoring](#breach-monitoring)
+- [Security Learning](#security-learning)
+- [News & Threat Intelligence](#news--threat-intelligence)
+- [Honeypot Tools](#honeypot-tools)
+### Honorable Mentions
+- [General Resources](#honorable-mentions)
 
 
+---
 
-## Devops
-### Frontend development
-| Name                                                          |                                                                 Description                                                                  |         |
-| :------------------------------------------------------------ | :------------------------------------------------------------------------------------------------------------------------------------------: | :-----: |
-| [10015](https://10015.io/)                                    |                   10015.io is a “free all-in-one toolbox” solution created to ease your life by preventing bookmark mess.                    | ![free] |
-| [Font Pair](https://www.fontpair.co/)                         |                                       Free fonts and font pairings to use for your next design project                                       | ![free] |
-| [Free Frontend](https://freefrontend.com/)                    |                    Free hand-picked HTML, CSS and JavaScript (jQuery, React, Vue) code examples, tutorials and articles.                     | ![free] |
-| [Happy Hues](https://www.happyhues.co/)                       | Happy Hues is a color palette inspiration site that acts as a real world example as to how the colors could be used in your design projects. | ![free] |
-| [Realtime Colors](https://www.realtimecolors.com/)            |                  Visualize Your Colors & Fonts On a Real Site. and generate different styles until you find the right fit.                   | ![free] |
-| [Shields.io](https://shields.io/)                             |                                                           HTML and MD badge maker                                                            | ![free] |
-| [Simple Icons](https://simpleicons.org/?q=kub)                |                                                      Free SVG icons for popular brands                                                       | ![free] |
-| [Super Designer](https://superdesigner.co/)                   |                      A collection of free design tools to create unique backgrounds, patterns, shapes, images, and more                      | ![free] |
-| [unDraw](https://undraw.co/illustrations/)                    | Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity. | ![free] |
-| [rgb to](https://rgb.to/)                                     |                                                             Just a color helper                                                              | ![free] |
-| [material](https://m2.material.io/design/guidelines-overview) |                                                           Useful design guidelines                                                           | ![free] |
-| [Uiverse](https://uiverse.io/)                                |                                                            Open-Source UI Library                                                            | ![free] |
+## Development
 
-### Backend Tools
-| Name                                 |                           Description                           |         |
-| :----------------------------------- | :-------------------------------------------------------------: | :-----: |
-| [PocketBase](https://pocketbase.io/) | Open Source backend for your next SaaS and Mobile app in 1 file | ![free] |
+### Frontend
 
-### Learning
-| Name                                    |                                                                                                                        Description                                                                                                                        |
-| :-------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Leet Code](https://leetcode.com/)      | LeetCode is the best platform to help you enhance your skills, expand your knowledge and prepare for technical interviews. You will be given challenges and will be able to code your solution and see how your code compares to other submitted answers. |
-| [w3schools](https://www.w3schools.com/) |                                            Quick how to's, full blown tutorials, examples and on many different languages. W3 schools is one of the first things that will show up when you google a question                                             |
+#### Design Inspiration
+A curated collection of websites and platforms that showcase beautiful, innovative, and modern web designs. These resources are perfect for gathering visual inspiration, staying current with design trends, or finding creative direction before starting your next UI/UX project.
 
-### Tools
-| Name                                                             |                                                                          Description                                                                          |             |
-| :--------------------------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: |
-| [JSON CRACK](https://jsoncrack.com/editor)                       |               Visualize, analyze, and manipulate data with ease. jsoncrack will parse formats like JSON into a tree making it easy to navigate                |             |
-| [Engine Mailer](https://www.enginemailer.com/html-email-builder) |                                                                 Drag and drop email designer                                                                  | ![freemium] |
-| [FillDB](https://filldb.info/)                                   | A free tool that lets you quickly generate large volumes of custom data in MySql format to use in testing software and populating databases with random data. |   ![free]   |
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [Godly](https://godly.website/) | A curated gallery of standout web designs to inspire creativity and innovation. | ![free] |
+| [Layers](https://layers.to/explore?contentType=layers) | A platform to showcase design work, discover inspiration, and connect with other creatives. | ![free] |
+| [See Saw](https://www.seesaw.website/) | A digital design studio sharing cutting-edge and experimental web design inspiration. | ![free] |
 
+#### Design Tools
+A suite of handy resources to streamline your frontend design workflow. These tools help you experiment with color palettes, select font pairings, generate SVGs, and more—so you can spend less time tweaking and more time building.
 
-## Productivity  
-| Name                                 |                                                                                                Description                                                                                                 | |
-| :----------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
-| [ChatGPT](https://chat.openai.com/)  | Chat-GPT allows users to refine and steer a conversation towards a desired length, format, style, level of detail, and language. Use it to write the boring parts of your code or to get an email started. | ![freemium] |
-| [Scribe](https://scribehow.com/)     |                                                                            Scribe automatically generates visual how-to guides                                                                             | ![freemium] |
-| [Notion](https://www.notion.so/)     |                     Notion is an all-in-one productivity and collaboration software that combines note-taking, task management, and database capabilities in a customizable platform.                      | ![freemium] |
-| [Draw.io](https://app.diagrams.net/) |                                                   diagrams.net (draw.io) is a cross-platform graph drawing software that is great for creating diagrams                                                    | ![free]   |
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [10015](https://10015.io/) | A comprehensive web-based toolbox offering utilities for design, development, and productivity. | ![free] |
+| [Font Pair](https://www.fontpair.co/) | A simple tool for finding Google Fonts that work well together, curated by designers. | ![free] |
+| [Happy Hues](https://www.happyhues.co/) | Curated color palettes with live previews on example layouts to help guide real-world usage. | ![free] |
+| [Realtime Colors](https://www.realtimecolors.com/) | Instantly preview color and font combinations on a live webpage and export Tailwind configs. | ![free] |
+| [Shields.io](https://shields.io/) | Generate dynamic, customizable badges for your projects in Markdown, JSON, or SVG. | ![free] |
+| [Super Designer](https://superdesigner.co/) | A suite of tools for generating unique visuals like blobs, patterns, gradients, and icons. | ![free] |
+| [unDraw](https://undraw.co/illustrations/) | A constantly updated library of MIT-licensed illustrations customizable to your brand color. | ![free] |
+| [rgb to](https://rgb.to/) | Convert and explore color formats and harmonies — RGB, HEX, CMYK, HSL, and more. | ![free] |
+| [ui colors](https://uicolors.app/) | Generate and fine-tune accessible Tailwind-compatible color palettes. | ![freemium] |
 
+#### Plug-and-Play Components
+Drop-in UI components, icons, and design elements for rapid frontend prototyping and development.
 
-## Security  
-### Investigation
-| Name                                     |Description | |
-| :--------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
-| [AbuseIPDB](https://www.abuseipdb.com//) |                  AbuseIPDB is a project dedicated to helping systems administrators and webmasters check and report IP addresses that are involved in malicious activity such as spamming, hack attempts, DDoS attacks, etc.                  |  ![free] |
-| [IPQS](https://www.ipqualityscore.com/)  | IPQualityScore (IPQS) provides enterprise grade fraud prevention, risk analysis, and threat detection. Analyze IP addresses, phone numbers, email addresses, and URLs or domains to identify sophisticated bad actors and high risk behavior. |   ![freemium] |
-| [OTX](https://otx.alienvault.com/)       |                              is a threat data platform that allows security researchers and threat data producers to share research and investigate new threats. It is a useful repo for checking against IOC's.                              |  ![free] |
-| [Shodan](https://www.shodan.io/)         |                                                      Shodan is a search engine scanning the entirety of the internet for connected devices. It will list open ports and vulnerability's.                                                      |  ![freemium] |
-| [URLvoid](https://www.urlvoid.com/)      |                                                                         A simple way to double-check any and all hyperlinks that show up in emails you're unsure of.                                                                          |  ![free] |
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [react bits](https://www.reactbits.dev/) | A customizable, animated React component collection for memorable user interfaces. | ![free] |
+| [UIverse](https://uiverse.io/) | Community-driven library of ready-to-use UI components built with CSS or Tailwind. | ![free] |
+| [Simple Icons](https://simpleicons.org/) | A searchable collection of free SVG icons for popular brands. | ![free] |
+
+#### Frontend Learning
+Guides, documentation, and educational material to help you build better user interfaces and understand the "why" behind strong frontend design decisions.
+
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [Material Design](https://m2.material.io/design/guidelines-overview) | Official Google Material Design documentation with UI/UX best practices and system guidance. | ![free] |
+
+### Backend
+
+#### Backend Tools
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [PocketBase](https://pocketbase.io/) | Open Source backend for your next SaaS and Mobile app in 1 file. | ![free] |
+
+#### Learning Resources
+| Name | Description |
+| :--- | :---------: |
+| [LeetCode](https://leetcode.com/) | Practice problems to build skills and prepare for technical interviews. |
+| [W3Schools](https://www.w3schools.com/) | Tutorials, examples, and documentation for many languages and technologies. |
+
+### Fullstack & General Tools
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [JSON CRACK](https://jsoncrack.com/editor) | Visualize and explore complex JSON data structures interactively. | ![free] |
+| [FillDB](https://filldb.info/) | Generate mock MySQL data for testing or populating dev databases. | ![free] |
+| [Engine Mailer](https://www.enginemailer.com/html-email-builder) | Drag-and-drop HTML email designer. | ![freemium] |
+
+## DevOps & Infrastructure
+
+### Tooling
+Moved items from frontend/dev sections for development utilities and infrastructure tooling.
+
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [Draw.io](https://app.diagrams.net/) | Diagramming and flowchart software for architecture and process design. | ![free] |
+
+### Productivity
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [ChatGPT](https://chat.openai.com/) | Use AI to automate or jumpstart dev tasks, content writing, or code explanation. | ![freemium] |
+| [Scribe](https://scribehow.com/) | Automatically generate step-by-step visual guides from your screen activity. | ![freemium] |
+| [Notion](https://www.notion.so/) | All-in-one workspace for docs, tasks, databases, and team collaboration. | ![freemium] |
+
+## Security
+
+### Investigation & Recon
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [AbuseIPDB](https://www.abuseipdb.com/) | Lookup IPs to see if they’ve been reported for abuse. | ![free] |
+| [IPQS](https://www.ipqualityscore.com/) | Threat analysis for IPs, phones, emails, and URLs. | ![freemium] |
+| [OTX](https://otx.alienvault.com/) | Community threat intelligence and IoC database. | ![free] |
+| [Shodan](https://www.shodan.io/) | Search engine for internet-connected devices. | ![freemium] |
+| [URLvoid](https://www.urlvoid.com/) | Check URLs for known malicious behavior. | ![free] |
 
 ### Scanning
-| Name                                                     |                                                                                 Description                                                                                 | |
-| :------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
-| [JoeSandBox](https://www.joesandbox.com/#windows)        | Joe Sandbox is a advanced automated and deep malware analysis engine. It is able to trick malware into thinking it is not a VM and will provide you with a detailed report. | ![freemium] |
-| [VirusTotal](https://www.virustotal.com/gui/home/upload) |                       VT will scan files, url's, hashes and more with multiple vendors. with an account, it is also useful for investigating threats.                       | ![free] |
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [Joe Sandbox](https://www.joesandbox.com/#windows) | Deep malware analysis engine that avoids sandbox detection. | ![freemium] |
+| [VirusTotal](https://www.virustotal.com/gui/home/upload) | Scan files, hashes, and URLs with multiple antivirus engines. | ![free] |
 
-### Research
-| Name                                          |                                                     Description                                                     | |
-| :-------------------------------------------- | :-----------------------------------------------------------------------------------------------------------------: | :--: |
-| [CVEdetails](https://www.cvedetails.com/)     | CVE Details is a database that combines NVD data with information from other sources, such as the Exploit Database. | ![free] |
-| [Vulnerability Database](https://vuldb.com/?) |                                     Documentation on the latest vulnerabilities                                     | ![free] |
+### Vulnerability Research
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [CVEDetails](https://www.cvedetails.com/) | Database combining CVEs and exploit metadata. | ![free] |
+| [VulnDB](https://vuldb.com/?) | Up-to-date vulnerability database and alerts. | ![free] |
 
-### Breach
-| Name                                             |                                                                                                                      Description                                                                                                                      | |
-| :----------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
-| [DeHashed](https://www.dehashed.com/)            | DeHashed provides free deep-web scans and protection against credential leaks. This differs from tools like "haveibeenpwned" as it will not only tell you if the data was found in a breach. But will also show you the leaked data (With an account) | ![freemium] |
-| [Have I Been Pwned](https://haveibeenpwned.com/) |                                                        Have I Been Pwned allows you to search across multiple data breaches to see if your email address or phone number has been compromised.                                                        | ![free] |
+### Breach Monitoring
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [DeHashed](https://www.dehashed.com/) | Breach database that reveals exposed data (with account). | ![freemium] |
+| [Have I Been Pwned](https://haveibeenpwned.com/) | Check if your email or data has been compromised. | ![free] |
 
-### Learning
-| Name                                                          |                                                                                                          Description                                                                                                           | |
-| :------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
-| [Hack the box](https://www.hackthebox.com/)                   | Hack The Box gives individuals, businesses and universities the tools they need to continuously improve their cybersecurity capabilities. A VM is spawned with a vulnerability and you are to hack your way in to get the flag | ![freemium] |
-| [Infosec Institute](https://www.infosecinstitute.com/skills/) |                                                                                               Self-paced cybersecurity training                                                                                                | ![paid] |
-| [CPU.land](https://cpu.land/)                                 |                                                                                          A cool resource for learning how a CPU works                                                                                          | ![free] |
+### Security Learning
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [Hack The Box](https://www.hackthebox.com/) | Hands-on labs for learning offensive security and CTF skills. | ![freemium] |
+| [Infosec Institute](https://www.infosecinstitute.com/skills/) | Online cybersecurity training platform. | ![paid] |
+| [CPU.land](https://cpu.land/) | Visual simulation of how CPUs work, great for fundamentals. | ![free] |
 
-### News and emerging threats
-| Name                                                             |                                                                                                            Description                                                                                                            |
-| :--------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en) | The Canadian Centre for Cyber Security (the Cyber Centre) is part of the Communications Security Establishment. It is the single unified source of expert advice, guidance, services and support on cyber security for Canadians. |
-| [OWASP](https://owasp.org/)                                      |             The Open Web Application Security Project is an online community that produces freely-available articles, methodologies, documentation, tools, and technologies in the field of web application security.             |
-| [The Hacker News](https://thehackernews.com/)                    |                                                                      A platform that focuses on cyber security news. It also sells sketchy software bundles.                                                                      |
-| [Threat Post](https://threatpost.com/)                           |                                                                                          A platform that focuses on cyber security news.                                                                                          |
+### News & Threat Intelligence
+| Name | Description |
+| :--- | :---------: |
+| [Canadian Centre for Cyber Security](https://www.cyber.gc.ca/en) | Canadian cyber threat intel and official government security advisories. |
+| [OWASP](https://owasp.org/) | Free, community-led security guidance and tools. |
+| [The Hacker News](https://thehackernews.com/) | Cybersecurity news and updates. |
+| [Threat Post](https://threatpost.com/) | Independent security news platform. |
 
-### Honeypot tools
-| Name                                               |                                                                                                                              Description                                                                                                                               | |
-| :------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--: |
-| [CanaryTokens](https://canarytokens.org/generate#) |                                                        Canarytokens is a free tool that helps you discover you've been breached by having attackers announce themselves. The tokens allow you to implant traps.                                                        | ![freemium] |
-| [grabify](https://grabify.link/)                   | Grabify IP Logger URL & Shortener provides you with some of the most advanced and detailed statistical data and metadata for all clicks on your links. Your IP Logger link can access information about user’s IP address, location tracker (country, city) and so on. | ![freemium] |
+### Honeypot Tools
+| Name | Description | |
+| :--- | :---------: | :--: |
+| [CanaryTokens](https://canarytokens.org/generate#) | Implantable tokens to detect breaches when triggered. | ![freemium] |
+| [Grabify](https://grabify.link/) | Create tracking links to collect IP and user data. | ![freemium] |
 
+## Honorable Mentions
 
-### Honorable Mentions
-| Name                                           |                                                                Description                                                                |
-| :--------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------: |
-| [OSINT Framework](https://osintframework.com/) | OSINT framework focused on gathering information from free tools or resources. The intention is to help people find free OSINT resources. |
+### General Resources
+| Name | Description |
+| :--- | :---------: |
+| [OSINT Framework](https://osintframework.com/) | Curated directory of free open-source intelligence resources. |
 
 
 
