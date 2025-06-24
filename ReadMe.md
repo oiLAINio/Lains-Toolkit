@@ -66,6 +66,7 @@ A suite of handy resources to streamline your frontend design workflow. These to
 | [unDraw](https://undraw.co/illustrations/) | A constantly updated library of MIT-licensed illustrations customizable to your brand color. | ![free] |
 | [rgb to](https://rgb.to/) | Convert and explore color formats and harmonies — RGB, HEX, CMYK, HSL, and more. | ![free] |
 | [ui colors](https://uicolors.app/) | Generate and fine-tune accessible Tailwind-compatible color palettes. | ![freemium] |
+| [Checklist Design](https://www.checklist.design/) | A collection of the best design practices in checklist format with examples | ![free] |
 
 #### Plug-and-Play Components
 Drop-in UI components, icons, and design elements for rapid frontend prototyping and development.
